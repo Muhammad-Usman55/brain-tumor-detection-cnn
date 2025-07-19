@@ -34,4 +34,4 @@ cd brain-tumor-detection-cnn
 pip install -r requirements.txt
 
 # Step 3: Run the notebook
-jupyter notebook F2022376138_JasimAbrar_MLlabProject.ipynb
+jupyter notebook Brain Tumor Detection using CNN.ipynb
